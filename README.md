@@ -33,7 +33,7 @@
   </a>
   </div>
 
-## ⚡️ Quick Install
+## ⚡️ Quick Install1
 ```
   npx copilotkit@latest create
 ```
